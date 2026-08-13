@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://shoyoviolinlesson.github.io/shoyoviolinlesson/sitemap.xml
+Sitemap: https://shoyoviolinlesson.github.io/sitemap.xml
